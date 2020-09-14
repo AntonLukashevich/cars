@@ -1,0 +1,7 @@
+﻿  Pinball.cpp
+g:\курсач\курсач\pinball.cpp(2): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Menu.cpp
+g:\курсач\курсач\menu.cpp(3): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  main.cpp
+g:\курсач\курсач\main.cpp(1): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory
+  Создание кода...
